@@ -95,3 +95,6 @@ Example topics:
 ## Simple Definition
 
 > Scrum = A framework where a team builds a product in **small iterations (sprints)** with **constant feedback and improvement**.
+
+## More info 
+https://www.youtube.com/watch?v=s3y95I79D_Q
