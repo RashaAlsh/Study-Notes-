@@ -1,5 +1,3 @@
-# Scrum Events
-
 ## Sprints Are Small Projects
 
 Sprints function like **small projects** used to accomplish work in an iteration.
