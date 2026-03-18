@@ -8,6 +8,8 @@
 - Key principles: iterative, incremental, empiricism, transparency, inspection, adaptation
 - Scrum values: Commitment, Focus, Openness, Respect, Courage
 
+More info 
+https://youtu.be/s3y95I79D_Q?is=AUJ8iaSOjd7NvkC1
 ---
 
 ## ISFS
