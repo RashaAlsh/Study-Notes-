@@ -13,7 +13,7 @@ https://youtu.be/s3y95I79D_Q?is=AUJ8iaSOjd7NvkC1
 ---
 
 ## ISFS
-- 
+ISO/IEC 27001 and 27002
 
 ---
 
