@@ -13,7 +13,14 @@ https://youtu.be/s3y95I79D_Q?is=AUJ8iaSOjd7NvkC1
 ---
 
 ## ISFS
+
 ISO/IEC 27001 and 27002
+
+ISO/IEC 27001
+	•	International standard for establishing, implementing, maintaining, and continually improving an Information Security Management System (ISMS)
+	•	Focuses on what must be done
+	•	Contains requirements
+	•	Organizations can get certified against this standard
 
 ---
 
