@@ -9,7 +9,7 @@ This is a reference for key terms and definitions from the ISO/IEC 27000 standar
 | Term | Definition |
 |------|------------|
 | **Access Control** | Measure that limits access to information or resources based on authorization. |
-| **Asset** | Anything that has value to the organization—premises, information, software, hardware, paper records, services, people, skills, experience, or intangibles like reputation and image. |
+| **Asset** | Anything that has value to the organization , premises, information, software, hardware, paper records, services, people, skills, experience, or intangibles like reputation and image. |
 | **Audit** | Systematic, independent, and documented process for obtaining audit evidence and evaluating it objectively to determine the extent to which the audit criteria are fulfilled. |
 | **Authentication** | Provision of assurance that a claimed characteristic of an entity is correct. |
 | **Authenticity** | Property that an entity is what it claims to be. |
