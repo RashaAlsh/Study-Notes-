@@ -1,19 +1,18 @@
-# CISM Governance: Key Risk Indicators (KRIs)
+# CISM Operations: Intrusion Detection Systems (IDS)
 
-## 1. Definition
-Metrics used by management to indicate the likelihood of a risk event occurring and its potential impact on the business.
+## 1. Primary Objective
+To provide visibility into suspicious activity and act as a detective control within the "Defense in Depth" strategy.
 
-## 2. Strategic Examples by Domain
-| Risk Area | Sample KRI |
-| :--- | :--- |
-| **Threat Landscape** | Increase in the number of failed login attempts from a specific geography. |
-| **Human Element** | Percentage of employees who failed a phishing simulation. |
-| **Vulnerability** | Number of days critical systems remain unpatched beyond the SLA. |
-| **Third-Party** | Number of critical vendors without a current SOC 2 Type II report. |
+## 2. Key Terminology
+*   **False Positive:** A legitimate action wrongly flagged as a threat (causes "alert fatigue").
+*   **False Negative:** A real attack that the IDS missed (the most dangerous scenario).
+*   **True Positive:** A real attack correctly identified.
+*   **Confidence Level:** The level of certainty the system has that an alert is valid.
 
-## 3. The Lifecycle
-1. **Identification:** Select indicators linked to high-priority risks.
-2. **Setting Thresholds:** Align triggers with Risk Appetite.
-3. **Monitoring:** Automated or manual data collection.
-4. **Reporting:** Escalation to the Risk Committee or Board.
-5. **Review:** Periodic validation that the KRI is still predictive.
+## 3. Placement Strategy
+*   **Outside Firewall:** High noise, shows all "knocks on the door."
+*   **Inside Firewall (DMZ):** Detects attacks that bypassed perimeter defenses.
+*   **Internal Segments:** Identifies lateral movement from an APT or an internal threat.
+
+## 4. Integration with SIEM
+An IDS is most effective when its logs are fed into a **Security Information and Event Management (SIEM)** system, allowing for cross-correlation with logs from firewalls, servers, and DLP.
