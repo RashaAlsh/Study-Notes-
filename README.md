@@ -35,7 +35,7 @@ ISO/IEC 27001 and 27002
 
 ---
 
-## ISMAS
+## MANAGEMENT OF INFORMATION SECURITY / 12 chapter 
 
 
 ---
