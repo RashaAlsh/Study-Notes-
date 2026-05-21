@@ -35,7 +35,8 @@ ISO/IEC 27001 and 27002
 
 ---
 
-## MANAGEMENT OF INFORMATION SECURITY / 12 chapter 
+## EXIN information security management professional based on ISO / IEC 27001 
+MANAGEMENT OF INFORMATION SECURITY / 12 chapter 
 
 
 ---
