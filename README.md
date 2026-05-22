@@ -8,6 +8,9 @@
 - Key principles: iterative, incremental, empiricism, transparency, inspection, adaptation
 - Scrum values: Commitment, Focus, Openness, Respect, Courage
 
+goal is 
+to be certified ✅
+
 More info 
 https://youtu.be/s3y95I79D_Q?is=AUJ8iaSOjd7NvkC1
 ---
@@ -22,6 +25,8 @@ ISO/IEC 27001 and 27002
 	•	Contains requirements
 	•	Organizations can get certified against this standard
 
+goal is 
+to be certified ✅
 ---
 
 ## CISM
@@ -33,10 +38,14 @@ ISO/IEC 27001 and 27002
   - Incident Management and Response
 - Best practices, frameworks, and compliance considerations
 
+My goal is to pass the exam ⏳
 ---
 
 ## EXIN information security management professional based on ISO / IEC 27001 
-MANAGEMENT OF INFORMATION SECURITY / 12 chapter 
+MANAGEMENT OF INFORMATION SECURITY / Book 12 chapter 
+
+My goal is - 
+Certified Management Professional (CMP) based on ISO/IEC 27001
 
 
 ---
