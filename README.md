@@ -34,7 +34,7 @@ to be certified ✅
 - Key domains:
   - Information Security Governance
   - Risk Management
-  - Information Security Program Development and Management
+  - Information Security Program Development a Management
   - Incident Management and Response
 - Best practices, frameworks, and compliance considerations
 
