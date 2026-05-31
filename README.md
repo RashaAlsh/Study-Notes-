@@ -41,7 +41,8 @@ to be certified ✅
 My goal is to pass the exam ⏳
 ---
 
-## EXIN information security management professional based on ISO / IEC 27001 
+## ISMAS
+EXIN information security management professional based on ISO / IEC 27001 
 MANAGEMENT OF INFORMATION SECURITY / Book 12 chapter / 1 - introduction
 
 My goal is - 
