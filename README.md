@@ -46,7 +46,7 @@ EXIN information security management professional based on ISO / IEC 27001
 MANAGEMENT OF INFORMATION SECURITY / Book 12 chapter / 1 - introduction
 
 My goal is - 
-Certified Management Professional (CMP) based on ISO/IEC 27001
+to be certified ✅ 
 
 
 ---
@@ -60,6 +60,7 @@ Certified Management Professional (CMP) based on ISO/IEC 27001
   - Cooperation between EU member states
 - Applicable to organizations in energy, transport, banking, health, and digital services
 
+to be certified ⏳
 ---
 ## AZ-500 (Microsoft Azure Security Technologies)
 - Certification for **Azure security engineers**
@@ -71,6 +72,7 @@ Certified Management Professional (CMP) based on ISO/IEC 27001
   - Manage **governance and compliance** in Azure
 - Focus on hands-on Azure security best practices
 
+to be certified ⏳
 ---
 
 ## CISSP
@@ -85,3 +87,6 @@ Certified Management Professional (CMP) based on ISO/IEC 27001
   7. Security Operations
   8. Software Development Security
 - Best practices, frameworks, and controls
+to be pass the exam ⏳
+
+
