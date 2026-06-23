@@ -1,5 +1,23 @@
 # Study Notes
 
+certification path:
+
+Completed / ✅
+
+* Scrum
+* ISFS (ISO/IEC 27001 & 27002)
+* ISMAS
+
+In progress ⏳
+
+* AZ-900 (Microsoft Azure Fundamentals)
+* AZ-500 (Microsoft Azure Security Technologies)
+* NIS2
+
+to pass the exam path  ⏳
+* CISM
+* CISSP
+
 ## Scrum
 - Overview of Agile and Scrum frameworks
 - Scrum roles: Product Owner, Scrum Master, Developers
@@ -8,8 +26,6 @@
 - Key principles: iterative, incremental, empiricism, transparency, inspection, adaptation
 - Scrum values: Commitment, Focus, Openness, Respect, Courage
 
-goal is 
-to be certified ✅
 
 More info 
 https://youtu.be/s3y95I79D_Q?is=AUJ8iaSOjd7NvkC1
@@ -25,8 +41,7 @@ ISO/IEC 27001 and 27002
 	•	Contains requirements
 	•	Organizations can get certified against this standard
 
-goal is 
-to be certified ✅
+
 ---
 
 ## CISM
@@ -45,9 +60,6 @@ My goal is to pass the exam ⏳
 EXIN information security management professional based on ISO / IEC 27001 
 MANAGEMENT OF INFORMATION SECURITY / Book 12 chapter / 1 - introduction
 
-My goal is - 
-to be certified ✅ 
-
 
 ---
 
@@ -60,8 +72,21 @@ to be certified ✅
   - Cooperation between EU member states
 - Applicable to organizations in energy, transport, banking, health, and digital services
 
-to be certified ⏳
 ---
+
+---
+## AZ-900 (Microsoft Azure Fundamentals)
+* Entry-level certification for understanding Microsoft Azure cloud concepts
+* Focus:
+    * Understand Azure services and when to use them
+    * Understand cloud security basics
+    * Understand Azure governance and management
+    * Learn Azure terminology
+
+
+
+---
+
 ## AZ-500 (Microsoft Azure Security Technologies)
 - Certification for **Azure security engineers**
 - Key skills covered:
@@ -72,7 +97,6 @@ to be certified ⏳
   - Manage **governance and compliance** in Azure
 - Focus on hands-on Azure security best practices
 
-to be certified ⏳
 ---
 
 ## CISSP
@@ -87,6 +111,6 @@ to be certified ⏳
   7. Security Operations
   8. Software Development Security
 - Best practices, frameworks, and controls
-to be pass the exam ⏳
+
 
 
