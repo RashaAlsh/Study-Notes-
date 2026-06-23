@@ -6,7 +6,7 @@ Completed / ✅
 
 * Scrum
 * ISFS (ISO/IEC 27001 & 27002)
-* ISMAS
+* ISMAS (Information Security Management Advanced / Professional) ISO 27001
 
 In progress ⏳
 
