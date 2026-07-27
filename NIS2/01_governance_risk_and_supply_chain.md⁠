@@ -1,0 +1,28 @@
+#  Governance, Risk & Supply Chain (NIS2)
+
+## 🎯 1. Governance & Risk Management Core Pillars
+* **Management Responsibility:** Top management is personally liable for approving, overseeing, and taking mandatory cybersecurity training regarding risk measures.
+* **Risk-Based Approach:** Risk assessment must identify all organizational assets, vulnerabilities, and threats to determine appropriate security posture.
+* **Business Continuity & Disaster Recovery (BCM):** Entities must establish emergency response plans, incident handling protocols, and robust backups.
+* **3-2-1-1 Backup Strategy:** 
+  * **3** total copies of data.
+  * **2** different storage media.
+  * **1** offsite copy.
+  * **1** immutable/air-gapped (offline) copy.
+
+---
+
+## 2. Supply Chain Security (Article 21(2d))
+* **Direct Supplier Assessment:** Entities must evaluate the cybersecurity quality and security measures of each direct supplier and service provider.
+* **EU-Wide Coordinated Assessments:** Entities must factor in European Union-level coordinated risk assessments for critical supply chains.
+* **Contractual Enforcement:** Mandate vulnerability patching, incident notification, and audit rights within supplier agreements.
+
+---
+
+## 3. Quick Revision Summary
+
+| Security Area | Mandatory Measure | Key Examination Concept |
+|---|---|---|
+| **Data Backup** | BCM & Recovery | Implement the **3-2-1-1 rule** and conduct periodic restoration testing. |
+| **Supplier Security** | Supply Chain Risk | Must cover individual vulnerabilities of **direct suppliers** and EU assessments. |
+| **Control Verification** | Effectiveness Evaluation | Regularly audit, test, and assess the overall effectiveness of cybersecurity measures. |
