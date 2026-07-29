@@ -1,0 +1,29 @@
+# Section 4.7: Technical Controls & Cyber Hygiene
+
+## 1. Access Control & Encryption Key Management
+* **IAAA Framework:** Identification, Authentication (MFA), Authorization, and Accounting.
+* **Privilege Access Management (PAM):** Restrict administrative accounts and enforce the Principle of Least Privilege.
+* **Encryption Across 3 Data States:**
+  1. **Data at Rest:** Encrypting stored databases, servers, and physical drives.
+  2. **Data in Transit:** Encrypting network traffic to prevent **Man-in-the-Middle (MitM)** attacks.
+  3. **Data in Use:** Encrypting active processes residing in system memory ($RAM$).
+* **Key Management Risks (CIA Triad):**
+  * Key exposure breaches **Confidentiality**.
+  * Key alteration breaches **Integrity**.
+  * Key loss breaches **Availability**.
+
+---
+
+## 2. Cyber Hygiene & Zero-Trust Principles
+* **Network Access Control (NAC):** Validates device posture (patches, AV status, certs) prior to entry. Uncompliant devices are isolated or **granted internet-only access** for patch updates.
+* **System Hardening:** Disable unnecessary services, close unused ports, and enforce strict configuration baselines.
+* **Micro-segmentation:** Isolate network resources down to individual applications or workloads to stop lateral movement.
+
+---
+
+## 3. Vulnerability Scanning & Secure Communications
+* **Vulnerability Management:** Use **CVE** databases and prioritize remediation using **CVSS** scoring.
+* **CSIRT Proactive Scanning:** Entities can request proactive scans (Article 11(3e)). CSIRTs may also perform **non-intrusive scans** on publicly accessible systems (Article 11(3)).
+* **Secured Communications (Article 21(2j)):**
+  * **Confidentiality:** Encryption in transit + **Physical Controls** at endpoints (soundproof rooms, privacy screens).
+  * **Authenticity:** Combat **CEO Fraud** and **Deepfakes** via **Independent Verification** through an alternative, out-of-band communication channel.
