@@ -1,0 +1,38 @@
+# Detection, Response & Specific Entities
+
+## 1. Detection & Response Ecosystem (SIEM vs. SOAR)
+
+$$\text{SIEM} = \text{Centralized Detection, Log Protection \& Alerting} \quad \Longleftrightarrow \quad \text{SOAR} = \text{Automated Orchestration \& Instant Response}$$
+
+| Technology | Operational Scope | Key Functionality |
+|---|---|---|
+| **SIEM** | Centralized Log Collector | Detects threats and generates alerts; **does NOT perform automated actions**. |
+| **EDR** | End-user Devices (Endpoints) | Detects, isolates, and remediates endpoint threats (malware, ransomware). |
+| **NDR** | Network Traffic & Flows | Analyzes network traffic for anomalies, intrusions, and forensic data. |
+| **SOAR** | Workflow Automation | Executes **automated playbooks** (e.g., auto-isolating infected hosts) & enriches threat data. |
+| **XDR** | Unified Ecosystem | The integrated suite combining **EDR + NDR + SOAR**. |
+
+---
+
+## 2. Emergency Communication Systems
+* **Objective:** Ensure availability and confidentiality during critical outages or network disruptions.
+* **Recommended Setup:** Utilize systems **completely independent** of primary corporate infrastructure (e.g., dedicated **two-way radios** operating on assigned frequencies).
+
+---
+
+## 3. Entity Type Specific Rules (Section 4.8)
+
+### A. Public Electronic Communications Providers (Sec. 4.8.1)
+* In scope regardless of size; classified as **Essential** if medium-sized or larger.
+* Must implement **Security by Design/Default**, **End-to-End Encryption**, and **Secure Routing Standards**.
+* Subject to jurisdiction in **every Member State** where services are supplied.
+
+### B. Trust Service Providers (TSPs) (Sec. 4.8.2)
+* Classified as **Essential Entities** regardless of size.
+* **Strict Reporting Rule:** Must report significant incidents within **24 hours** (instead of the standard 72-hour window).
+
+### C. TLD Registries, DNS Services & Cloud/MSPs (Sec. 4.8.3 - 4.8.4)
+* **Explicit Exemption:** **Root Name Servers** are completely exempted from NIS2 scope (Article 6(20b)).
+* **Jurisdiction:** Governed by the Member State of their **Main Establishment**.
+* **Non-EU Entities:** Must designate a legally liable **Representative** within an EU Member State where they operate.
+* **TLD SLA Requirement:** TLD registries must respond to lawful information requests within **72 hours**.
