@@ -7,12 +7,13 @@ Completed / ✅
 * Scrum
 * ISFS (ISO/IEC 27001 & 27002)
 * ISMAS (Information Security Management Advanced / Professional) ISO 27001
-* AZ-900 (Microsoft Azure Fundamentals)
+* NIS2
+
 In progress ⏳
 
-
+* AZ-900 (Microsoft Azure Fundamentals)
 * AZ-500 (Microsoft Azure Security Technologies)
-* NIS2
+
 
 to pass the exam path  ⏳
 * CISM
