@@ -12,7 +12,6 @@ Completed / ✅
 In progress ⏳
 
 * AZ-900 (Microsoft Azure Fundamentals)
-* AZ-500 (Microsoft Azure Security Technologies)
 
 
 to pass the exam path  ⏳
