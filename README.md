@@ -10,12 +10,12 @@ Completed / ✅
 * NIS2
 
 In progress ⏳
+* CISM
 
-* AZ-900 (Microsoft Azure Fundamentals)
 
 
 to pass the exam path  ⏳
-* CISM
+
 * CISSP
 
 ## Scrum
@@ -112,5 +112,17 @@ MANAGEMENT OF INFORMATION SECURITY / Book 12 chapter / 1 - introduction
   8. Software Development Security
 - Best practices, frameworks, and controls
 
+--- 
+
+
+## AI fundamental
+
+
+
+---
+
+## Access management
+
+fundamental info 
 
 
