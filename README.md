@@ -124,5 +124,5 @@ MANAGEMENT OF INFORMATION SECURITY / Book 12 chapter / 1 - introduction
 ## Access management
 
 fundamental info 
-
-
+Microsoft azure 
+sailpoint 
