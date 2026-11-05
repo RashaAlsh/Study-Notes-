@@ -9,14 +9,17 @@ Completed / ✅
 * ISMAS (Information Security Management Advanced / Professional) ISO 27001
 * NIS2
 
+passed the exam
+* CISM ✅
+
 In progress ⏳
-* CISM
-
-
-
-to pass the exam path  ⏳
 
 * CISSP
+
+
+
+
+
 
 ## Scrum
 - Overview of Agile and Scrum frameworks
