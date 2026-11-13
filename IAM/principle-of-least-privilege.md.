@@ -1,0 +1,253 @@
+Principle of Least Privilege (PoLP)
+
+1. What is the Principle of Least Privilege?
+
+The Principle of Least Privilege (PoLP) is a fundamental cybersecurity concept that ensures users, applications and systems receive only the minimum permissions necessary to perform their assigned tasks.
+
+In simple terms:
+
+Give users only the access they need to do their job, and nothing more.
+
+PoLP is an important part of:
+
+* Identity and Access Management (IAM).
+* Zero Trust Security.
+* Access Control.
+* Privileged Access Management (PAM).
+
+Why is it important?
+
+Giving users unnecessary permissions increases security risks.
+
+For example, an employee who only needs to read customer information should not automatically have permission to modify or delete that information.
+
+By limiting permissions, organizations reduce the risk of:
+
+* Unauthorized access.
+* Insider threats.
+* Accidental data deletion.
+* Fraud.
+* Privilege abuse.
+* Data breaches.
+
+⸻
+
+2. Real-Life Example: Jane the Bank Employee
+
+Imagine Jane works at a bank.
+
+Stage 1: Jane is a Bank Teller
+
+As a bank teller, Jane has access to basic customer information.
+
+Her responsibilities include:
+
+* Viewing customer account balances.
+* Processing deposits.
+* Processing withdrawals.
+
+Her permissions are:
+
+Permission	Access
+View account balances	Allowed
+Process deposits	Allowed
+Process withdrawals	Allowed
+View credit history	Not allowed
+Submit loan applications	Not allowed
+Manage loan applications	Not allowed
+
+Jane receives only the permissions necessary to perform her daily tasks.
+
+This is the Principle of Least Privilege in action.
+
+Stage 2: Jane Gets Promoted to Loan Officer
+
+Jane performs well and gets promoted to loan officer.
+
+Her responsibilities change.
+
+She now needs access to:
+
+* Customer credit histories.
+* Loan applications.
+* Customer account balances.
+* Loan application submission.
+
+However, she no longer needs to process deposits or withdrawals.
+
+Her permissions should therefore be updated.
+
+Permission	Previous Role	New Role
+View account balances	Allowed	Allowed
+Process deposits	Allowed	Revoked
+Process withdrawals	Allowed	Revoked
+View credit history	Not allowed	Allowed
+Submit loan applications	Not allowed	Allowed
+Manage loan applications	Not allowed	According to role requirements
+
+Important: When Jane changes roles, her old unnecessary permissions must be removed.
+
+Simply adding new permissions without removing old ones creates excessive access.
+
+This is sometimes called privilege accumulation or privilege creep.
+
+⸻
+
+3. What Happens If Least Privilege Is Not Applied?
+
+Imagine Jane becomes a loan officer but keeps all her previous bank teller permissions.
+
+She can now:
+
+* View credit histories.
+* Submit loan applications.
+* Process deposits.
+* Process withdrawals.
+
+Some of these permissions are no longer necessary for her job.
+
+Security risks
+
+1. Fraud: Excessive permissions could be abused to manipulate customer transactions.
+2. Insider threats: Employees could misuse their legitimate access.
+3. Accidental mistakes: Users might change or delete information unnecessarily.
+4. Data breaches: More access means more opportunities for sensitive information to be exposed.
+
+The principle of least privilege reduces these risks by limiting unnecessary permissions.
+
+⸻
+
+4. Temporary Access and Least Privilege
+
+Sometimes employees need additional permissions temporarily.
+
+For example:
+
+A bank has two branches:
+
+* City Centre Branch.
+* Another branch with fewer customers.
+
+The City Centre Branch experiences a staffing shortage.
+
+An employee from the less busy branch is temporarily assigned to help.
+
+To perform the temporary duties, the employee needs access to some City Centre systems.
+
+How should this work?
+
+Step 1: The employee requests additional access.
+
+Step 2: A manager or authorized administrator approves the request.
+
+Step 3: The necessary permissions are granted.
+
+Step 4: The employee uses the additional access for the required period.
+
+Step 5: When the staffing shortage is resolved, the additional permissions are revoked.
+
+This is an example of Temporary Access.
+
+The important principle is that additional permissions should only be granted when necessary and removed when they are no longer required.
+
+⸻
+
+5. Just-in-Time (JIT) Access
+
+A related security concept is Just-in-Time (JIT) Access.
+
+JIT means users receive additional privileges only when they need them, usually for a limited period.
+
+For example:
+
+An IT administrator normally has standard permissions.
+
+However, they need administrative access to troubleshoot a server.
+
+Instead of having permanent administrator privileges, they request elevated access for a limited time.
+
+Once the task is completed, the elevated privileges expire or are revoked.
+
+Benefits of JIT Access
+
+* Reduces permanent privileged access.
+* Limits the opportunity for privilege abuse.
+* Reduces the impact of compromised accounts.
+* Improves accountability.
+* Supports Zero Trust security.
+
+⸻
+
+6. Least Privilege and Zero Trust
+
+The Principle of Least Privilege is an important part of the Zero Trust security model.
+
+Zero Trust follows the principle:
+
+Never trust, always verify.
+
+Users should not automatically receive access to every resource just because they successfully log in.
+
+Instead, access should be based on:
+
+* Verified identity.
+* Assigned role.
+* Required permissions.
+* Security policies.
+* Business needs.
+* Context and risk.
+
+Least privilege ensures users receive only the permissions necessary for their specific tasks.
+
+⸻
+
+7. Key Benefits of the Principle of Least Privilege
+
+Benefit	Explanation
+Improved Security	Limits unnecessary access
+Reduced Insider Threats	Reduces opportunities for privilege abuse
+Data Protection	Helps protect sensitive information
+Reduced Attack Surface	Limits what attackers can access through compromised accounts
+Better Accountability	Makes access easier to monitor and review
+Compliance	Supports security and access control requirements
+Reduced Human Error	Prevents users from accidentally modifying resources they do not need
+
+⸻
+
+8. Important Concepts to Remember
+
+Concept	Meaning
+PoLP	Principle of Least Privilege
+Privilege	Permission to perform an action
+Privilege Creep	Accumulation of unnecessary permissions over time
+Temporary Access	Additional access granted for a limited period
+JIT Access	Just-in-Time access; privileges granted only when needed
+Privilege Escalation	Gaining higher permissions than originally assigned
+Zero Trust	Security model based on continuous verification and controlled access
+RBAC	Role-Based Access Control; permissions assigned according to roles
+
+⸻
+
+9. Final Summary
+
+The Principle of Least Privilege (PoLP) ensures that users have only the minimum permissions required to perform their jobs.
+
+Using Jane’s example:
+
+* As a bank teller, Jane can process deposits and withdrawals.
+* When promoted to loan officer, her old teller permissions should be revoked.
+* She receives new permissions to view credit histories and manage loan applications according to her responsibilities.
+* If she needs temporary additional access, it should be approved, limited and revoked when no longer needed.
+
+Remember These Three Rules
+
+1. Give only the access necessary.
+2. Remove permissions that are no longer needed.
+3. Grant temporary privileges only when required, and revoke them afterward.
+
+Key Takeaway
+
+Least Privilege = Minimum Access + Minimum Permissions + Minimum Time.
+
+It reduces unnecessary access, limits security risks and helps protect an organization’s systems and sensitive information.
+
